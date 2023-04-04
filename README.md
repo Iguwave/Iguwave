@@ -14,6 +14,11 @@
  
  <br>
  
+ ## Projetos
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iguwave&repo=Projeto-Tik-Tok&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
   ### Para Contato e Redes Sociais!
  
 <div> 
