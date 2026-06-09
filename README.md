@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Iguwave 😁
+## Bem-vindo(a) ao perfil ao meu perfil 😁
 
  <div>
    <a href="https://github.com/Iguwave">
@@ -6,11 +6,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iguwave&layout=compact&langs_count=6&theme=tokyonight"/>
  
  <br>
- 
- ## Projetos
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iguwave&repo=Projeto-Tik-Tok&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
  
   ### Para Contato e Redes Sociais!
  
